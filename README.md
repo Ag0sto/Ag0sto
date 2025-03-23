@@ -31,14 +31,14 @@
 
 ###
 
-<img align="right" height="480" src="https://media1.tenor.com/m/YloxxXe7W4gAAAAC/mark-invincible-invincible-blush.gif"  />
+<img align="right" height="480" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3IzYnlleGxianhyem5zbGxoNjdvNjV5emh6MTJyZ3NhODN6N2szeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0k3qzDEYqkVmBVwoCe/giphy.gif"  />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ag0sto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Ag0sto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ag0sto&theme=tokyonight&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ag0sto&theme=tokyonight&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
