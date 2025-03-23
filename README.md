@@ -31,11 +31,7 @@
 
 ###
 
-<img align="right" height="540" src="https://media.tenor.com/cC_3MEM6-1gAAAAM/happy-frog.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Ag0sto/Ag0sto/output/snake.svg" alt="Snake animation" />
+<img align="right" height="" src="https://media.tenor.com/cC_3MEM6-1gAAAAM/happy-frog.gif"  />
 
 ###
 
