@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="480" src="https://media1.giphy.com/media/a1PxsQRyxm3v1S2O28/giphy.gif?cid=6c09b952tts03mrcd30fmqem1x0b9p6mwltf1na5smqv5lg8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="480" src="https://s2.ezgif.com/tmp/ezgif-2d10b9ffbc29e4.gif"  />
 
 ###
 
